@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Polinden
-- 👀 I’m interested in Math and CS
+- 👀 I’m interested in Calculus, ML and AI, Functional programming, MCU
 - 🌱 I’m currently learning Applied Math in University
-- 💞️ I’m looking to collaborate on AI and Math projects
+- 💞️ I’m looking to collaborate on AI and ML projects
 - 📫 How to reach me...
 
 <!---
